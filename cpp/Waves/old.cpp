@@ -6,6 +6,8 @@
 #include "nodes.h"
 #include "modifiers.h"
 
+// Test
+
 CInitPhase_2::CInitPhase_2(CHistory *history, int Wmin, int Wmax, int acc): CHistoryWorker(history)
 {
 	this->Wmin = Wmin;
