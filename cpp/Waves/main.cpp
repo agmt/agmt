@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, char *argv[])
 {
-	printf("Taki hello\n");
+	printf("Takgdfi hello\n");
 	CHistory::initInt(8);
 
 	
