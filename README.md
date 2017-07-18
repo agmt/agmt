@@ -1,2 +1,1 @@
-agmt
-====
+Manipulation and visualization of signals
